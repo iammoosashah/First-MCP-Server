@@ -1,0 +1,15 @@
+{
+  "name": "mcp-server",
+  "version": "1.0.0",
+  "description": "Currency Converter MCP Server",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "zod": "^4.4.3"
+  },
+  "license": "ISC"
+}
